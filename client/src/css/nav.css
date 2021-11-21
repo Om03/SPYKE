@@ -1,0 +1,24 @@
+.nav-list {
+  border-bottom: 2px solid rgba(0, 0, 0, 0);
+  color: #fff;
+  transition: 0.5s all ease-in-out 0s;
+  -webkit-transition: 0.5s all ease-in-out 0s;
+  -moz-transition: 0.5s all ease-in-out 0s;
+  font-weight: 300;
+  font-size: 1em;
+  cursor: pointer;
+  -ms-transition: 0.5s all ease-in-out 0s;
+}
+
+.nav-list:hover {
+  border-bottom: 2px solid #21d36b;
+  color: #21d36b;
+}
+
+.nav-list-active {
+  border-bottom: 2px solid rgba(0, 0, 0, 0);
+  color: #5cc9cc;
+  font-weight: 500;
+  font-size: 1.1em;
+  cursor: pointer;
+}

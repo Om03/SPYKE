@@ -1,0 +1,10 @@
+{
+  "DBURI": "mongodb+srv://taksha:ZEVVZ4Rd496rSvkc@cluster0.9iggj.mongodb.net/SPYKE?authSource=admin&replicaSet=atlas-jxnw5v-shard-0&w=majority&readPreference=primary&appname=MongoDB%20Compass&retryWrites=true&ssl=true",
+  "jwt_secret": "lahfo;aiwyADAD1082471902pue;/ADLJKAKSj;dlSd",
+  "jwt_otp_secret": "190;peD1/lSL2JD0o82dAu7D4;hfaiAawyAdKKSj;lA",
+  "EMAIL_HOST_PASSWORD": "B@cefo0k1",
+  "EMAIL_HOST_USER": "no-reply@spykefinance.com",
+  "razor_pay_key_id": "rzp_test_Zi261LIbS0Aotd",
+  "razor_pay_key_secret": "uxPGGA540Jd61Rn8jcUHopVW",
+  "PORT": 4001
+}

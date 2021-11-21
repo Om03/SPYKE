@@ -1,0 +1,18 @@
+.price-cards {
+  cursor: pointer;
+  transition: 0.5s all ease-in-out 0s;
+  -webkit-transition: 0.5s all ease-in-out 0s;
+  -moz-transition: 0.5s all ease-in-out 0s;
+  -ms-transition: 0.5s all ease-in-out 0s;
+}
+.price-cards:hover {
+  -webkit-transform: scale(1.05);
+  -moz-transform: scale(1.05);
+  -ms-transform: scale(1.05);
+  -o-transform: scale(1.05);
+  transform: scale(1.05);
+  transition: 0.5s all ease-in-out 0s;
+  -webkit-transition: 0.5s all ease-in-out 0s;
+  -moz-transition: 0.5s all ease-in-out 0s;
+  -ms-transition: 0.5s all ease-in-out 0s;
+}

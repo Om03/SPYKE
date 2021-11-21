@@ -1,0 +1,19 @@
+.input {
+  font-family: Montserrat, sans-serif;
+  font-size: 1.5em;
+  color: #fff;
+  background-color: rgba(4, 28, 48, 0.5);
+  border: 2px solid #5cc8cc75;
+  padding: 1% 2%;
+  border-radius: 250px;
+}
+.input:focus {
+  font-family: Montserrat, sans-serif;
+  color: #fff;
+  font-size: 1.5em;
+  background-color: rgba(4, 28, 48, 0.8);
+  border: 2px solid #5cc9cc;
+  padding: 1% 2%;
+  border-radius: 250px;
+  outline: none;
+}

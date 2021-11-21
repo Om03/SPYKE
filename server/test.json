@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "title": "Basic",
+      "price": 125,
+      "description": [
+        "10 Stocks Monitored",
+        "Access to Spyke Detector",
+        "No Access to Newsletter",
+        "No Access to expert Analysis by Market Analyst"
+      ],
+      "buttonText": "Start Now",
+      "buttonVariant": "contained",
+      "rzr_plan_id": "plan_I9wXO3ILVJfKOL"
+    },
+    {
+      "title": "Premium",
+      "subheader": "Most popular",
+      "price": 625,
+      "description": [
+        "75 Stocks Monitored",
+        "Access to Spyke Detector",
+        "Access to Newsletter",
+        "No Access to expert Analysis by Market Analyst"
+      ],
+      "buttonText": "Start Now",
+      "buttonVariant": "contained",
+      "rzr_plan_id": "plan_I9wXlMTSwb3MTw"
+    },
+    {
+      "title": "Elite",
+      "price": 1250,
+      "description": [
+        "200 Stocks Monitored",
+        "Access to Spyke Detector",
+        "Access to Newsletter",
+        "Access to expert Analysis by Market Analyst"
+      ],
+      "buttonText": "Start Now",
+      "buttonVariant": "contained",
+      "rzr_plan_id": "plan_I9wXxlsfY9GnIM"
+    }
+  ]
+}

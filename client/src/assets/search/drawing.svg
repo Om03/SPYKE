@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1600.0px"
+   height="900.0px"
+   viewBox="0 0 1600.0 900.0"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="drawing.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview829"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.32756265"
+     inkscape:cx="963.17453"
+     inkscape:cy="465.55979"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1714" />
+  <defs
+     id="defs824">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1498">
+      <stop
+         style="stop-color:#0072ff;stop-opacity:1;"
+         offset="0"
+         id="stop1494" />
+      <stop
+         style="stop-color:#0072ff;stop-opacity:0;"
+         offset="1"
+         id="stop1496" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1282">
+      <stop
+         style="stop-color:#00c6ff;stop-opacity:1;"
+         offset="0"
+         id="stop1278" />
+      <stop
+         style="stop-color:#00c6ff;stop-opacity:0;"
+         offset="1"
+         id="stop1280" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1282"
+       id="linearGradient1350"
+       x1="-78.213683"
+       y1="492.18169"
+       x2="1718.8194"
+       y2="492.18169"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0315385,0,0,1,395.75351,-493.96681)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1498"
+       id="linearGradient1502"
+       x1="-78.213683"
+       y1="492.18169"
+       x2="1718.8194"
+       y2="492.18169"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0315385,0,0,1,-2088.1014,-490.39648)" />
+    <filter
+       id="active"
+       height="200%">
+      <feMorphology
+         in="SourceAlpha"
+         result="DILATED"
+         operator="dilate"
+         radius="2"
+         id="feMorphology2359" />
+      <feFlood
+         flood-color="#32DFEC"
+         flood-opacity="1"
+         result="PINK"
+         id="feFlood2361" />
+      <feComposite
+         in="PINK"
+         in2="DILATED"
+         operator="in"
+         result="OUTLINE"
+         id="feComposite2363" />
+      <feMerge
+         id="feMerge2369">
+        <feMergeNode
+           in="OUTLINE"
+           id="feMergeNode2365" />
+        <feMergeNode
+           in="SourceGraphic"
+           id="feMergeNode2367" />
+      </feMerge>
+    </filter>
+    <filter
+       id="hover"
+       height="200%">
+      <feMorphology
+         in="SourceAlpha"
+         result="DILATED"
+         operator="dilate"
+         radius="2"
+         id="feMorphology2372" />
+      <feFlood
+         flood-color="#ff0000"
+         flood-opacity="0.5"
+         result="PINK"
+         id="feFlood2374" />
+      <feComposite
+         in="PINK"
+         in2="DILATED"
+         operator="in"
+         result="OUTLINE"
+         id="feComposite2376" />
+      <feMerge
+         id="feMerge2382">
+        <feMergeNode
+           in="OUTLINE"
+           id="feMergeNode2378" />
+        <feMergeNode
+           in="SourceGraphic"
+           id="feMergeNode2380" />
+      </feMerge>
+      <feColorMatrix
+         type="matrix"
+         values="0   0   0   0   0                0   1   0   0   0                0   0   0   0   0                0   0   0   1   0 "
+         id="feColorMatrix2384" />
+    </filter>
+    <filter
+       id="active-4"
+       height="200%">
+      <feMorphology
+         in="SourceAlpha"
+         result="DILATED"
+         operator="dilate"
+         radius="2"
+         id="feMorphology7409" />
+      <feFlood
+         flood-color="#32DFEC"
+         flood-opacity="1"
+         result="PINK"
+         id="feFlood7411" />
+      <feComposite
+         in="PINK"
+         in2="DILATED"
+         operator="in"
+         result="OUTLINE"
+         id="feComposite7413" />
+      <feMerge
+         id="feMerge7419">
+        <feMergeNode
+           in="OUTLINE"
+           id="feMergeNode7415" />
+        <feMergeNode
+           in="SourceGraphic"
+           id="feMergeNode7417" />
+      </feMerge>
+    </filter>
+    <filter
+       id="hover-1"
+       height="200%">
+      <feMorphology
+         in="SourceAlpha"
+         result="DILATED"
+         operator="dilate"
+         radius="2"
+         id="feMorphology7422" />
+      <feFlood
+         flood-color="#ff0000"
+         flood-opacity="0.5"
+         result="PINK"
+         id="feFlood7424" />
+      <feComposite
+         in="PINK"
+         in2="DILATED"
+         operator="in"
+         result="OUTLINE"
+         id="feComposite7426" />
+      <feMerge
+         id="feMerge7432">
+        <feMergeNode
+           in="OUTLINE"
+           id="feMergeNode7428" />
+        <feMergeNode
+           in="SourceGraphic"
+           id="feMergeNode7430" />
+      </feMerge>
+      <feColorMatrix
+         type="matrix"
+         values="0   0   0   0   0                0   1   0   0   0                0   0   0   0   0                0   0   0   1   0 "
+         id="feColorMatrix7434" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g15088"
+       transform="matrix(-1,0,0,1,1981.4684,369.39498)">
+      <g
+         id="g1714"
+         transform="matrix(0.91596374,0,0,0.74163308,49.50696,88.307014)">
+        <rect
+           style="opacity:0.964744;fill:url(#linearGradient1350);fill-opacity:1;stroke:#ffffff;stroke-width:1.01724"
+           id="rect936"
+           width="1852.6757"
+           height="1269.3107"
+           x="315.58966"
+           y="-636.44049"
+           ry="6.6786502e-06" />
+        <rect
+           style="opacity:0.964744;fill:url(#linearGradient1502);fill-opacity:1;stroke:#ffffff;stroke-width:1.01724"
+           id="rect1374"
+           width="1852.6757"
+           height="1269.3107"
+           x="-2168.2654"
+           y="-632.87024"
+           ry="6.6786502e-06"
+           transform="scale(-1)" />
+      </g>
+      <g
+         id="g14958" />
+    </g>
+  </g>
+  <style
+     id="style2199">svg#freepik_stories-online-doctor:not(.animated) .animable {opacity: 0;}svg#freepik_stories-online-doctor.animated #freepik--cross-icon--inject-94 {animation: 1s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) fadeIn;animation-delay: 0.5s;opacity: 0}svg#freepik_stories-online-doctor.animated #freepik--pulse-icon--inject-94 {animation: 1s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) fadeIn;animation-delay: 0.5s;opacity: 0}svg#freepik_stories-online-doctor.animated #freepik--Chat--inject-94 {animation: 1s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) slideLeft;animation-delay: 0s;}            @keyframes fadeIn {                0% {                    opacity: 0;                }                100% {                    opacity: 1;                }            }                    @keyframes slideLeft {                0% {                    opacity: 0;                    transform: translateX(-30px);                }                100% {                    opacity: 1;                    transform: translateX(0);                }            }        </style>
+  <style
+     id="style7152">svg#freepik_stories-doctors:not(.animated) .animable {opacity: 0;}svg#freepik_stories-doctors.animated #freepik--character-1--inject-18 {animation: 1s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) fadeIn;animation-delay: 1.0s;opacity: 0}svg#freepik_stories-doctors.animated #freepik--character-2--inject-18 {animation: 1s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) fadeIn;animation-delay: 0s;}svg#freepik_stories-doctors.animated #freepik--character-3--inject-18 {animation: 1s 1 forwards cubic-bezier(.36,-0.01,.5,1.38) fadeIn;animation-delay: 0.5s;opacity: 0}            @keyframes fadeIn {                0% {                    opacity: 0;                }                100% {                    opacity: 1;                }            }        </style>
+</svg>
