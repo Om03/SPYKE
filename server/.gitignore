@@ -77,3 +77,6 @@ typings/
 
 # Local Netlify folder
 .netlify
+
+# python code
+/python
